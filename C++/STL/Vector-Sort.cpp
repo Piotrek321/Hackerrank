@@ -9,7 +9,7 @@ using namespace std;
 int main() {
     vector <int> vect;
     int N,a;
-    cin >> N;
+    cin >> N;//dhjdhhjdhdfghdfghdgfddddddddddddddddddddddddddddddddddddddddddddddddddddddh
     for(int i=0;i<N;i++)
     {
         cin >> a;
