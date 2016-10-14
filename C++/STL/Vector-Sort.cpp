@@ -12,8 +12,11 @@ int main() {
     cin >> N;//dhjdhhjdhdfghdfghdgfddddddddddddddddddddddddddddddddddddddddddddddddddddddh
     for(int i=0;i<N;i++)
     {
-        cin >> a;
+        //sadas
+        //asda/sd
         vect.push_back(a);
+        
+        cin >> a;
     }
     sort(vect.begin(),vect.end());
         for(int i=0;i<N;i++)
